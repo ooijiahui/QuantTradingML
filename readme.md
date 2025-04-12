@@ -3,8 +3,8 @@ https://docs.google.com/presentation/d/1g_SMQGv3S76HbQTnvwtxTxGxs1FtjqLqNvFPyL1P
 
     OR
 
-Open the file in this repository with name "Quant Trading Slides.pdf"
+   Open the file in this repository with name "Quant Trading Slides.pdf"
 
 
 
-2. Conceptual Model Diagram can be get in this repository name "Concept Model Diagram"
+2. Conceptual Model Diagram can be get in this repository name "Concept Model Diagram.pdf"
